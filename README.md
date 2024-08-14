@@ -8,6 +8,6 @@ Tengo un enorme interés por formar parte del equipo y aprender tecnologías par
 
 No soy el tipo de persona apasionada por los videojuegos pero fui contemporáneo a la época dorada del **Counter Strike 1.6** y **League of Legends**. 
 
-#Mi top 2 es:
+Mi top 2 es:
 1. CS 1.6
 2. LOL
