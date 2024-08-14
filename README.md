@@ -1,5 +1,6 @@
 # Juan Pablo Guazzotti
 
+![selfie](foto.jpg)
 
 ### Actualmente estoy cursando la carrera universitaria de *Programación Informatica* en la Universidad Nacional de San Martín.
 Tengo un enorme interés por formar parte del equipo y aprender tecnologías para el desarrollo de software que me permitan trabajar en programas de automatización de maquinarias.
